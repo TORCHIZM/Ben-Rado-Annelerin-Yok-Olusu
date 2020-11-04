@@ -1,0 +1,15 @@
+C:\Users\Torchizm\source\repos\Ben Rado - Annelerin Yok Olusu\Ben Rado - Annelerin Yok Olusu\bin\Debug\Ben Rado - Annelerin Yok Olusu.exe.config
+C:\Users\Torchizm\source\repos\Ben Rado - Annelerin Yok Olusu\Ben Rado - Annelerin Yok Olusu\bin\Debug\Ben Rado - Annelerin Yok Olusu.exe
+C:\Users\Torchizm\source\repos\Ben Rado - Annelerin Yok Olusu\Ben Rado - Annelerin Yok Olusu\bin\Debug\Ben Rado - Annelerin Yok Olusu.pdb
+C:\Users\Torchizm\source\repos\Ben Rado - Annelerin Yok Olusu\Ben Rado - Annelerin Yok Olusu\obj\Debug\Ben Rado - Annelerin Yok Olusu.csprojAssemblyReference.cache
+C:\Users\Torchizm\source\repos\Ben Rado - Annelerin Yok Olusu\Ben Rado - Annelerin Yok Olusu\obj\Debug\Ben_Rado___Annelerin_Yok_Olusu.Properties.Resources.resources
+C:\Users\Torchizm\source\repos\Ben Rado - Annelerin Yok Olusu\Ben Rado - Annelerin Yok Olusu\obj\Debug\Ben Rado - Annelerin Yok Olusu.csproj.GenerateResource.cache
+C:\Users\Torchizm\source\repos\Ben Rado - Annelerin Yok Olusu\Ben Rado - Annelerin Yok Olusu\obj\Debug\Ben Rado - Annelerin Yok Olusu.csproj.CoreCompileInputs.cache
+C:\Users\Torchizm\source\repos\Ben Rado - Annelerin Yok Olusu\Ben Rado - Annelerin Yok Olusu\obj\Debug\Ben Rado - Annelerin Yok Olusu.exe
+C:\Users\Torchizm\source\repos\Ben Rado - Annelerin Yok Olusu\Ben Rado - Annelerin Yok Olusu\obj\Debug\Ben Rado - Annelerin Yok Olusu.pdb
+C:\Users\Torchizm\source\repos\Ben Rado - Annelerin Yok Olusu\Ben Rado - Annelerin Yok Olusu\obj\Debug\Ben_Rado___Annelerin_Yok_Olusu.Form1.resources
+C:\Users\Torchizm\source\repos\Ben Rado - Annelerin Yok Olusu\Ben Rado - Annelerin Yok Olusu\obj\Debug\Ben Rado - Annelerin Yok Olusu.TrustInfo.xml
+C:\Users\Torchizm\source\repos\Ben Rado - Annelerin Yok Olusu\Ben Rado - Annelerin Yok Olusu\bin\Debug\Ben Rado - Annelerin Yok Olusu.exe.manifest
+C:\Users\Torchizm\source\repos\Ben Rado - Annelerin Yok Olusu\Ben Rado - Annelerin Yok Olusu\bin\Debug\Ben Rado - Annelerin Yok Olusu.application
+C:\Users\Torchizm\source\repos\Ben Rado - Annelerin Yok Olusu\Ben Rado - Annelerin Yok Olusu\obj\Debug\Ben Rado - Annelerin Yok Olusu.exe.manifest
+C:\Users\Torchizm\source\repos\Ben Rado - Annelerin Yok Olusu\Ben Rado - Annelerin Yok Olusu\obj\Debug\Ben Rado - Annelerin Yok Olusu.application
